@@ -10,3 +10,6 @@ file = {}
 
 Tk().withdraw(); path = askopenfilename(filetypes=[("Shader File", "*")], title='Selection')
 print(f'Successfully found {path}')
+
+print("Invalid code")
+print("It's not worky worky")
